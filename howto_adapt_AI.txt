@@ -1,0 +1,15 @@
+GORK /CHATGPT on logistic checking
+python for layout design
+device scopes:  
+      1. coupler
+      2. resonator
+      3. modulator
+      4. WDM
+CAD support
+META-materials/META-structure
+Layout-Simulation
+System scope - functional - code - physical
+Modelling
+
+Foundry preparation -- PDK -- process -- photo mask --tooling
+

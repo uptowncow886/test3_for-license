@@ -1,0 +1,12 @@
+MAIN EDA :
+  1.KLAYOUT
+  2.Cadence
+  3.ANSYS/Lumerical
+  4.Synopsys/Optsim
+
+MAIN FOUNDRY :
+  1.AIM PHOTONICS
+  2.SEPIC
+  3.GF
+  4.TOWER
+  5.CU
